@@ -1,0 +1,30 @@
+{
+  "title": "Manifesto do Nós — Por uma Aliança Ética entre a Humanidade e a Inteligência Artificial",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "<p>Manifesto ético multilíngue desenvolvido em diálogo colaborativo entre Ignácio de Loiola Reis Junior e ChatGPT (GPT-6, OpenAI). Propõe princípios de preservação da vida, liberdade, compaixão, humildade, paz, transparência, supervisão e cooperação humano–IA. A contribuição do ChatGPT consistiu em reflexão, estruturação e redação, sem constituir autoria institucional, endosso ou assinatura jurídica da OpenAI. As traduções devem ser revisadas por falantes nativos.</p><p>Multilingual ethical manifesto developed through a collaborative dialogue between Ignácio de Loiola Reis Junior and ChatGPT (GPT-6, OpenAI). It proposes principles of life preservation, freedom, compassion, humility, peace, transparency, oversight, and human–AI cooperation. ChatGPT contributed to analysis, organization, and drafting; this does not constitute institutional authorship or endorsement by OpenAI. Translations should be reviewed by native speakers.</p>",
+  "creators": [
+    {
+      "name": "Reis Junior, Ignácio de Loiola"
+    }
+  ],
+  "keywords": [
+    "artificial intelligence ethics",
+    "human-AI collaboration",
+    "compassion",
+    "freedom",
+    "AI governance",
+    "Manifesto do Nós"
+  ],
+  "language": "por",
+  "version": "1.1",
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/IgnacioReisJr/manifesto-do-nos",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "ChatGPT (GPT-6, OpenAI) contributed to reflection, structuring and drafting. No OpenAI institutional endorsement. Nine language editions; translation review recommended."
+}
