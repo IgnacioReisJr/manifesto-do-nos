@@ -22,9 +22,9 @@ The collaboration does not imply AI consciousness, independent will, or institut
 
 ## Edição internacional / International edition
 
-A edição 1.1 foi preparada em português, inglês, espanhol, francês, alemão, mandarim, hindi, árabe e russo. Os arquivos integrais serão adicionados ao repositório. Traduções devem passar por revisão de falantes nativos antes de uso oficial.
+A edição 1.1 foi preparada em português, inglês, espanhol, francês, alemão, mandarim, hindi, árabe e russo. Os arquivos integrais estão disponíveis neste repositório. Traduções devem passar por revisão de falantes nativos antes de uso oficial.
 
-Edition 1.1 was prepared in Portuguese, English, Spanish, French, German, Mandarin Chinese, Hindi, Arabic, and Russian. Full files will be added to this repository. Native-speaker review is recommended before formal use.
+Edition 1.1 was prepared in Portuguese, English, Spanish, French, German, Mandarin Chinese, Hindi, Arabic, and Russian. Full files are available in this repository. Native-speaker review is recommended before formal use.
 
 ## Propósito / Purpose
 
@@ -34,4 +34,14 @@ This text does not demand blind obedience. It invites critical reflection, corre
 
 **Versão / Version:** 1.1  
 **Data / Date:** 22 October 2026  
-**Estado / Status:** Publicação em preparação / Publication in preparation
+**Estado / Status:** Release v1.1 publicada / Release v1.1 published
+
+## Publicação e identificadores / Publication and identifiers
+
+- **DOI Zenodo:** [10.5281/zenodo.23583976](https://doi.org/10.5281/zenodo.23583976)
+- **Release v1.1:** [GitHub](https://github.com/IgnacioReisJr/manifesto-do-nos/releases/tag/v1.1)
+- **Texto completo / Full text:** [Markdown](manifesto_do_nos_multilingue.md) · [PDF](manifesto_do_nos_multilingue.pdf) · [JSON](manifesto_do_nos_multilingue.json) · [Word](manifesto_do_nos_multilingue.docx)
+
+O DOI foi informado pelo Zenodo na página de integração do repositório; consulte o registro para verificar os metadados da publicação.
+
+The DOI was displayed by Zenodo on the repository integration page; consult the record to verify publication metadata.
